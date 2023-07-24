@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Josefin+Sans:ital,wght@0,400;1,600&family=Poppins:ital,wght@0,200;1,500&family=Ysabeau+Infant:ital,wght@1,900&display=swap');
+body{
+	font-family: 'Agdasima', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Ysabeau Infant', sans-serif;
+}
+.hover:hover{
+	background-color: palegoldenrod;
+}
+
+.link{
+	text-decoration: none;
+}
